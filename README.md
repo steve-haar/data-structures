@@ -2,6 +2,8 @@
 
 Simple data structures implemented in .net core with c#
 
+* Dynamic Arrays
+
 ## Build
 
 `dotnet build`
