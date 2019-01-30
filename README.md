@@ -5,6 +5,7 @@ Simple data structures implemented in .net core with c#
 * Dynamic Arrays
 * Stacks & Queues
 * Linked Lists
+* Hash Tables
 
 ## Build
 
