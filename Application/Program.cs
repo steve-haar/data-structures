@@ -5,6 +5,7 @@ namespace DataStructureRunner
     using System.Linq;
     using DataStructures;
     using DataStructures.BinaryHeap;
+    using DataStructures.BinarySearchTree;
     using DataStructures.DynamicArray;
     using DataStructures.HashTable;
     using DataStructures.LinkedList;
@@ -106,6 +107,7 @@ namespace DataStructureRunner
             yield return new HashTable<T>();
             yield return new MinBinaryHeap<T>();
             yield return new MaxBinaryHeap<T>();
+            yield return new BinarySearchTree<T>();
         }
     }
 }
